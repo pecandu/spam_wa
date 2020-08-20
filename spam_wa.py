@@ -12,7 +12,7 @@ __banner__ = ('''
             SPAM WA
 %s ##################################
  # %snama   : Ahmad Rofii            %s#
- # %swa     : 085210480813           %s#
+ # %sfb     : Ahmad Rofii           %s#
  # %semail  : rofii0663@gmail.com    %s#
  ##################################%s
     ''' % (c,w,c,w,c,w,c,w))
