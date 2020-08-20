@@ -8,11 +8,11 @@ c='\033[96m'
 w='\033[0m'
 
 __banner__ = ('''
-  spam kita.bisa gan :V
+  Pembuat asli kumpulanremaja😁
 %s ###############################
- # %scode  : Ahmad Rofii            %s#
- # %stype  : 085210480813             %s#
- # %steam  : rofii0663@gmail.com             %s#
+ # %snama   : Ahmad Rofii            %s#
+ # %swa     : 085210480813             %s#
+ # %semail  : rofii0663@gmail.com             %s#
  ###############################%s
     ''' % (c,w,c,w,c,w,c,w))
 
