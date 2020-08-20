@@ -9,6 +9,7 @@ w='\033[0m'
 
 __banner__ = ('''
   Pembuat asli kumpulanremaja😁
+            SPAM WA
 %s ##################################
  # %snama   : Ahmad Rofii            %s#
  # %swa     : 085210480813           %s#
@@ -16,7 +17,6 @@ __banner__ = ('''
  ##################################%s
     ''' % (c,w,c,w,c,w,c,w))
 
-           SPAM WA 
 
 class Mate_lampu():
         def __init__(self):
