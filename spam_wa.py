@@ -16,7 +16,7 @@ __banner__ = ('''
  ##################################%s
     ''' % (c,w,c,w,c,w,c,w))
 
-    SPAM WA 🙃🙃🙃
+           SPAM WA 
 
 class Mate_lampu():
         def __init__(self):
