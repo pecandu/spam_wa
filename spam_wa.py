@@ -11,9 +11,9 @@ __banner__ = ('''
   Pembuat asli kumpulanremaja😁
             SPAM WA
 %s ##################################
- # %snama   : Ahmad Rofii            %s#
- # %sfb     : Ahmad Rofii           %s#
- # %semail  : rofii0663@gmail.com    %s#
+ # %snama    : Ahmad Rofii            %s#
+ # %sfb      : Ahmad Rofii           %s#
+ # %sgithub  : github.com/pecandu/spam_wa    %s#
  ##################################%s
     ''' % (c,w,c,w,c,w,c,w))
 
