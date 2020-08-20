@@ -1,5 +1,3 @@
-
-
 #-*- coding: utf8 -*-
 #kodingan kumpulan remaja :)>
 import requests,random,time,os,sys
